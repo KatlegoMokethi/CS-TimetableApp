@@ -1,6 +1,9 @@
 # CS-TimetableApp
 Final year project: Timetable App for all courses within the department of Computer Science &amp; Informatics
 
+# About the application
+Refer to the "PROJECT DOCUMENTATION" file
+
 ## Requirements
 *	Be easy to use.
 *	Usable on both mobile devices and desktops.
@@ -25,6 +28,7 @@ Final year project: Timetable App for all courses within the department of Compu
   *	Student can: send queries and questions whenever they have any. 
   *	The Lecturer will then receive a notification that he has received a message from a student.
   *	Message only read once online and give feedback to student or suggest other options with the student.
+  
 ## Modified functionality
 *	Machine learning: Just perform calculations based on student marks for completed assessments whether or not he will reach predicate (system defined goal).
 *	Using small coloured icons (indicating exam promise):
@@ -38,3 +42,11 @@ C#
 
 ## Application platform
 Desktop application: Windows Forms
+
+## How To Sign-In?
+* Open and read the "Sign-In.txt" file
+* Sign-In with the student credentials and explore the application
+* You may also sign-in with one of the lecturers' credentials
+
+## Source code
+You can freely request it through an email.
