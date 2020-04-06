@@ -1,0 +1,15 @@
+=======
+Student
+=======
+Username: 2018155421
+Password: 2018Prince5421
+
+=========
+Lecturers
+=========
+L1-Usernane: Prof T. Stott
+L1-Password: 2Stott
+
+L2-Username: Marais W.S.J
+L2-Password: 4Maraisj
+
